@@ -12,3 +12,6 @@ The point of the game is to run your ghost to the grave. You have 30 seconds to 
 
 # How to play
 Controllers: W = Up, A = Left, S = Down, D = Right
+
+# Direct to Our Game Website and Dundoc
+https://anusornkt.github.io/TeamProjectGhostCatchGame/
