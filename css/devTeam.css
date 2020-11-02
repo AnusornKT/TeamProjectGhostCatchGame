@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 1px;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.devTeam__box{
+    color: white;
+    background-color:#3fc1c9;
+    text-align: center;
+    padding: 20px;
+}
+
+.devTeam__box--heading{
+    font-weight: 200;
+}
+
+
+.teamMember__box{
+    text-align: center;
+}
+
+.teamMember__box h5{
+    margin-top: 10px;
+}
+
+.teamMember__box--personBox--pic{
+    padding-top:  25px;
+}
+
+.devTeam__footer{
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 9px;
+    background-color: #3fc1c9;
+    color: white;
+}
+
+.devTeam__footer a {
+    color: white;
+    text-decoration: none;
+}

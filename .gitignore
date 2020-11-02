@@ -1,0 +1,5 @@
+# ignore the DS Store file
+.DS_Store
+
+# ignore all .txt extension
+*.txt
